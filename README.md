@@ -2,7 +2,8 @@
 
 Thank you for viewing my portfolio. Here you will find information about me and direct links to my portfolio projects.
 
-
+### Comparing open source contribution to covid case volume
+# Hypothesis: The more people who are working at home due to covid restrictions the more open source contributions people will find the time for.
 
 ### Markdown
 

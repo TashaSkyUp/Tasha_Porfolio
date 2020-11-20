@@ -2,6 +2,8 @@
 
 Thank you for viewing my portfolio. Here you will find information about me and direct links to my portfolio projects.
 
+[Link](https://github.com/TashaSkyUp/Tasha_Porfolio/edit/main/OpenSourceCovid.md) 
+
 ### Comparing open source contribution to covid case volume
 
 

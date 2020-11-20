@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Natasha Upchurch
 
-You can use the [editor on GitHub](https://github.com/TashaSkyUp/Tasha_Porfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for viewing my portfolio. Here you will find information about me and direct links to my portfolio projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
